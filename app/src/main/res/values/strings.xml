@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">HomeWork1</string>
+    <string name="button1">Button</string>
+    <string name="name1">Name</string>
+    <string name="swtich1">ползунок</string>
+    <string name="checkbox1">Чекбокс</string>
+    <string name="ЧтоЭто">ToggleButton</string>
+</resources>
