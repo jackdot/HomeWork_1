@@ -42,7 +42,7 @@
         android:ems="10"
         android:fontFamily="serif"
         android:inputType="textPersonName"
-        android:text="Введите имя"
+        android:text="@string/enterName"
         android:textAlignment="center"
         android:textColor="#0E0E0B"
         android:textStyle="bold|italic"
