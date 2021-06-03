@@ -5,4 +5,5 @@
     <string name="swtich1">ползунок</string>
     <string name="checkbox1">Чекбокс</string>
     <string name="ЧтоЭто">ToggleButton</string>
+    <string name="enterName">Введите имя</string>
 </resources>
